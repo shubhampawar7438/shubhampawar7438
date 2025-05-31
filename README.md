@@ -36,15 +36,11 @@
 
 ### 📫 Reach Me
 <div align="center">
-  <a href="https://twitter.com/phantom7438">
-    <img src="https://img.shields.io/badge/Twitter-00ffff?style=for-the-badge&logo=twitter&logoColor=black" />
-  </a>
-  <a href="https://linkedin.com/in/phantom7438">
+ 
+  <a href="https://www.linkedin.com/in/shubhammarutipawar">
     <img src="https://img.shields.io/badge/LinkedIn-00ffff?style=for-the-badge&logo=linkedin&logoColor=black" />
   </a>
-  <a href="mailto:phantom7438@protonmail.com">
-    <img src="https://img.shields.io/badge/ProtonMail-00ffff?style=for-the-badge&logo=protonmail&logoColor=black" />
-  </a>
+  
 </div>
 
 ---
